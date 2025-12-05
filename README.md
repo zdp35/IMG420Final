@@ -45,7 +45,6 @@ To make gameplay feel mechanically distinct, we developed a Godot extension that
 - Background music and sound effects  
 - State management
 
-# Business Roadmap  
 ## Tempest Relics — Development Challenges
 
 Throughout development, several technical and gameplay issues emerged.  
